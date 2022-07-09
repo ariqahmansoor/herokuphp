@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Test Hello World</title>
+        <title>Test Hello World 2</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
